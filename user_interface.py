@@ -5,7 +5,7 @@ import google.generativeai as genai
 from IPython.display import display
 from IPython.display import Markdown
 
-genai.configure(api_key="AIzaSyCF7KnBkBduE47AjyZY-gPXB4mx0JWHwgg")
+genai.configure(api_key="api")
 
 text1 = "This document is about weight pig estim model imag"
 
